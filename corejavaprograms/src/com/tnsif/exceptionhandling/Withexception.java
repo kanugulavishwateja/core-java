@@ -1,6 +1,6 @@
 package com.tnsif.exceptionhandling;
 
-public class Withexception {
+public class  Withexception     {
 	public static void main(String[] args) {
 		int d=0;
 		try {
